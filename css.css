@@ -1,0 +1,37 @@
+
+body{
+    background-image: url("./wallpaperflare.com_wallpaper\ \(1\).jpg");
+    background-size: cover;
+    color: white;
+    }
+    
+    
+    .card{
+        background-color: #333;
+        color: white;
+        font-weight: bold;
+        opacity: .5;
+    }
+    
+    .card-body{
+        opacity: .5;
+    }
+    .form-group{
+        margin: 15px 0px;
+    }
+    
+    .form-control{
+        background-color: #333;
+        color: white;
+    }
+    .form-control::placeholder{
+        color: white;
+        font-weight: bold;
+    }
+    .form-control:focus{
+        background-color: #d3d3d3;
+    }
+    
+    .none{
+    display: none;
+    }
